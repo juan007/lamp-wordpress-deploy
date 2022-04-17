@@ -64,13 +64,13 @@
 ---
 ## AWS DNS RECORD
 1.  Configure AWS record to point to LightSail site.
-- ![download](/images/24.png)
+- ![download](/images/24.PNG)
 
 ---
 ## EXPORT IMPORT OF WORDPRESS FINISHED SITE
 1.  To export the website from the development environment to the LightSail production environment I used the All-inOne WP Migration plugin
 2.  Access the tool in the local site and export the site to a local file
-- ![download](/images/25.png)
+- ![download](/images/25.PNG)
 - ![download](/images/26.png)
 - ![download](/images/27.png)
 3.  Access the tool in the production environment (LightSail) and import from the previously generated file
