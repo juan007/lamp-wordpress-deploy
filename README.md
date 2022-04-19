@@ -104,4 +104,4 @@
 4.  Deleting Powered by WordPress from the footer.
     -  I wanted to delete this from the footer and could not find a way to do it from the WordPress GUI.  I had to copy the footer.php file to my child theme and modify that file to delete that part of the footer.
 5.  Enabling WordPress Site to send emails, needed for contact form.
-    -  The contact form is not able to send emails if the WordPress site is not configured for sending emails.  I used the WP Mail SMTP plugin to configure the email with my Gmail account.  In order to that I had to configure my Gmail account and generate a key to allow the plugin to use my account to send the emails.
+    -  The contact form is not able to send emails if the WordPress site is not configured for sending emails.  I was looking into implementing email sending directly on WordPress, since it seemeded that was going to take a bit of time researching I did not implement the feature this way.  I used the WP Mail SMTP plugin to configure the email with my Gmail account.  In order to do that, I had to configure my Gmail account and generate a key to allow the plugin to use my account to send the emails.
